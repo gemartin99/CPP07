@@ -1,0 +1,4 @@
+*.o
+*.d
+program
+.DS_STORE
